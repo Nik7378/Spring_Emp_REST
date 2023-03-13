@@ -1,4 +1,4 @@
-# Employee-Management-System - Spring REST
+# Employee Management System - Spring REST
 
 Designed and developed Employee Management System using Spring Boot, Java and MySQL as part of a Maven based project. Created functionalities for Admin roles. 
 
@@ -30,4 +30,3 @@ Admin can:
 * Select Project -> RunOnServer -> Select the exisiting server(Apache Tomcat 9.0) Click Ok
 * Project runs on port 8080.
 * On postman run apis with http://localhost:8080/
-Footer
